@@ -1,0 +1,163 @@
+/* Corporate Connect  css------------------------ */
+.services-background{
+    background-image: url(assets/images/staffingserices.jpg);
+    background-size: cover;
+    
+  }
+  .Corporate-para1{
+    margin-top: 130px;
+    padding-left: 20px;
+  }
+  @media only screen and (max-width: 767px) {
+    .Corporate-para1 {
+      margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+  }
+ 
+  @media only screen and (max-width: 1032px) {
+    .Corporate-img2 {
+      padding-top: 80px !important;
+    }
+  }
+  @media only screen and (max-width: 820px) {
+    .Corporate-img2 {
+      padding-top: 130px !important;
+    }
+  }
+  @media only screen and (max-width: 820px) {
+    .Corporate-img2 {
+      padding-top: 130px !important;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .Corporate-img2 {
+      padding-top: 50px !important;
+      padding: 30px !important;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .Corporate-para2 {
+      padding: 20px !important;
+     
+    }
+  }
+  @media only screen and (max-width: 1032px) {
+    .Corporate-para2 {
+      padding-top: 30px !important;
+    }
+  }
+  .Corporate-img2{
+    padding-bottom: 50px;
+    padding-top: 30px;
+  }
+.Corporate-para2{
+  padding-top: 80px;
+  padding-right: 30px;
+}
+.card-content{
+  padding-left: 20px;
+}
+@media only screen and (max-width: 767px) {
+  .Corporate-img1 {
+    margin-top: -50px;
+ 
+  }
+}
+.Corporate-img1{
+  padding: 30px;
+  margin-bottom: 20px;
+}
+  .services-background1{
+    padding-top: 325px;
+    padding-bottom: 350px;
+  }
+
+  @media screen and (min-width:0px) and (max-width:717px) {
+    .services-background1{
+      padding-top: 200px;
+      padding-bottom: 150px;
+    }
+  
+  }
+  /* payroll css---------------------- */
+  .services-background2{
+    background-image: url(assets/images/Payroll\ Management.jpg);
+    background-size: cover;
+    
+  }
+
+  .zoom {
+    padding: 20px;
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+
+
+
+
+   /* payroll css---------------------- */
+   
+  
+   /* payroll css---------------------- */
+   .services-background4{
+    background-image: url(assets/images/1.jpg);
+    background-size: cover;
+    
+  }
+
+  .services-background5{
+    background-image: url(./assets/images/Job\ Rec.jpg);
+    background-size: cover;
+    
+  }
+  
+  .services-background6{
+    background-image: url(./assets/images/Training\ and\ Development.jpg);
+    background-size: cover;
+    
+  }
+
+  .services-background7{
+    background-image: url(./assets/images/Image\ 222.jpg);
+    background-size: cover;
+    
+  }
+  .Recruitment-head{
+    margin-top: 180px !important;
+  }
+.vendor-head{
+  margin-top: 130px !important; 
+}
+  .services_subheads1 h1
+  {
+    color: red !important;
+    
+    font-weight: 700;
+  }
+
+  .services_subheads1 p{
+    text-align: justify;
+  }
+
+
+  .form-button-color
+  {
+    border: 1ps solid ;
+    color: #ffffff !important;
+  }
+  .Corporate-head{
+    margin-top: 150px;
+  }
+  *{
+    
+  }
+
+
+  
